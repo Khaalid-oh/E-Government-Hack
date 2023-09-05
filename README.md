@@ -14,7 +14,7 @@ Features of the Correspondence Tracking System:
 7. Secure user authentication and authorization
 
 
-This system is built using React.js, Node.js, and MongoDB.
+This system is built using React.js, Node.js, and MongoDB
 
 The code is available on this GitHub repository, and it's open-source, you can feel free to use, modify, and distribute it according to the terms of the license.
 
