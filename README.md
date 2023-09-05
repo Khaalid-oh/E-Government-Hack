@@ -1,7 +1,7 @@
 # Correspondence-tracking-system
 This system is designed to automate the process of correspondence tracking, making it more efficient and organized. It allows users to easily search, filter, and manage correspondence, as well as set reminders for follow-up actions.
 
-###A Correspondence Tracking System is a software application that allows users to keep track of all the correspondence (emails, letters, packages, etc.) that is sent and received by an organization.
+### A Correspondence Tracking System is a software application that allows users to keep track of all the correspondence (emails, letters, packages, etc.) that is sent and received by an organization.
 
 Features of the Correspondence Tracking System:
 
