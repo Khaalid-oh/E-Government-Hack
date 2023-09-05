@@ -22,6 +22,4 @@ The system is still under development and new features will be added in the futu
 
 Please let me know if you have any questions or need further assistance.
 
-Okay
-
 
